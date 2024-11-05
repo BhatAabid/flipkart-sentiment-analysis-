@@ -6,8 +6,9 @@ Key steps include:
 Text preprocessing and cleaning
 Feature extraction using TF-IDF
 Sentiment classification model
-Visualization of sentiment and rating distributions
-Machine Learning Models used 
+Visualization of sentiment and rating distributions...
+
+.....Machine Learning Models used 
 1. Decision Tree
 2. XGBoost
 3. SVM
